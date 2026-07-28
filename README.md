@@ -18,5 +18,5 @@ Linux and the command line, Git and version control, Python, Docker and containe
 
 ## Note
 
-This repository contains only my own solutions and notes. It does not include or reproduce any content from the book itself.
+This repository contains only my own solutions and notes. It does not include or reproduce any content from the book itself.  
 If you want the original material, please contact the creator, not me.
