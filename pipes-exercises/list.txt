@@ -1,0 +1,7 @@
+total 12
+drwxr-xr-x. 1 akira akira 78 Aug  7 13:41 .
+drwxr-xr-x. 1 akira akira 64 Aug  7 13:27 ..
+-rw-r--r--. 1 akira akira 28 Aug  7 13:30 colors.txt
+-rw-r--r--. 1 akira akira 41 Aug  7 13:34 fruits.txt
+-rw-r--r--. 1 akira akira  0 Aug  7 13:41 list.txt
+-rw-r--r--. 1 akira akira 21 Aug  7 13:40 numbers.txt
