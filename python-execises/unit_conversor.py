@@ -1,0 +1,6 @@
+unit = int(input("Unit in meters: "))
+print(f"This unit in centimeters is {unit * 100}")
+print(f"This unit in milimeters is {unit * 1000}")
+print(f"This unit in kilometers is {unit / 1000}")
+print(f"This unit in inches is {unit * 39.37}")
+print(f"This unit in foots is {unit * 3.281}")
